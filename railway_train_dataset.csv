@@ -1,0 +1,11 @@
+Train_Number,Train_Name,Source_Station,Destination_Station,Departure_Time,Arrival_Time,Distance_km,Duration_hr,Days_of_Operation
+12001,Shatabdi Express,New Delhi,Bhopal,06:00,13:30,707,7.5,"Mon, Wed, Fri"
+12002,Rajdhani Express,Mumbai Central,Delhi,16:25,08:45,1384,16.3,Daily
+12003,Duronto Express,Howrah,Pune,20:00,12:30,1926,16.5,"Tue, Thu, Sat"
+12004,Garib Rath,Chennai Central,Bangalore,06:10,14:00,496,7.8,"Mon, Wed, Fri, Sun"
+12005,Jan Shatabdi,Bengaluru,Mysuru,07:30,11:45,143,4.2,Daily
+12006,Intercity Express,Hyderabad,Vijayawada,15:45,20:30,623,4.75,Daily
+12007,Humsafar Express,Ahmedabad,Jaipur,22:00,10:15,632,12.25,"Wed, Fri, Sun"
+12008,Tejas Express,Lucknow,Kanpur,05:50,09:10,290,3.33,Daily
+12009,Vande Bharat Express,Varanasi,Delhi,15:00,21:25,771,6.41,Daily
+12010,Sampark Kranti,Pune,Nagpur,08:10,16:50,890,8.66,"Mon, Thu, Sat"
